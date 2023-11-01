@@ -1,0 +1,22 @@
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\Boy Kilo Endeksi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\Boy Kilo Endeksi.AssemblyInfoInputs.cache
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\Boy Kilo Endeksi.AssemblyInfo.cs
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\Boy Kilo Endeksi.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\Boy Kilo Endeksi.exe
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\Boy Kilo Endeksi.deps.json
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\Boy Kilo Endeksi.runtimeconfig.json
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\Boy Kilo Endeksi.dll
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\Boy Kilo Endeksi.pdb
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\Boy Kilo Endeksi.csproj.AssemblyReference.cache
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\Boy Kilo Endeksi.csproj.CopyComplete
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\Boy Kilo Endeksi.dll
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\refint\Boy Kilo Endeksi.dll
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\Boy Kilo Endeksi.pdb
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\Boy Kilo Endeksi.genruntimeconfig.cache
+C:\Users\Eren\source\repos\Boy Kilo Endeksi\obj\Debug\net6.0\ref\Boy Kilo Endeksi.dll
