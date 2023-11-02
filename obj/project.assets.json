@@ -172,26 +172,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Eren\\.nuget\\packages\\": {}
+    "C:\\Users\\Omer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eren\\source\\repos\\Boy Kilo Endeksi\\Boy Kilo Endeksi.csproj",
+      "projectUniqueName": "C:\\Users\\Omer\\Desktop\\Height-Weight-Index-Project\\Boy Kilo Endeksi.csproj",
       "projectName": "Boy Kilo Endeksi",
-      "projectPath": "C:\\Users\\Eren\\source\\repos\\Boy Kilo Endeksi\\Boy Kilo Endeksi.csproj",
-      "packagesPath": "C:\\Users\\Eren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eren\\source\\repos\\Boy Kilo Endeksi\\obj\\",
+      "projectPath": "C:\\Users\\Omer\\Desktop\\Height-Weight-Index-Project\\Boy Kilo Endeksi.csproj",
+      "packagesPath": "C:\\Users\\Omer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Omer\\Desktop\\Height-Weight-Index-Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eren\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Omer\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -231,7 +229,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
       }
     }
   }
